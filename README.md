@@ -219,5 +219,5 @@ This datapack is licensed under [MIT License](LICENSE.md). Feel free to modify a
 
 **Version**: 1.3.0  
 **Last Updated**: October 26, 2023  
-**Support**: [GitHub Issues](https://github.com/yourrepo/origins-factions/issues)  
-**Download**: [Latest Release](https://github.com/yourrepo/origins-factions/releases)
+**Support**: [GitHub Issues](https://github.com/sxvlsl/origins-factions/issues)  
+**Download**: [Latest Release](https://github.com/sxvlsl/origins-factions/releases)
