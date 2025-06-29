@@ -3,8 +3,6 @@
 ## Overview
 Origins Factions is a comprehensive datapack for Minecraft 1.20.1 (Fabric) that adds 10 unique origins with specialized abilities, advantages, and disadvantages. Designed for balanced gameplay with immersive mechanics using the Origins mod framework.
 
-![Origins Factions Banner](https://i.imgur.com/minecraft_origins_banner.png)
-
 ## Features
 - 10 fully customized origins with unique mechanics
 - Pehkui integration for size scaling
