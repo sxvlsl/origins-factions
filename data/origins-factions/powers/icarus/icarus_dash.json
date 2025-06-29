@@ -1,0 +1,15 @@
+{
+  "type": "origins:launch",
+  "name": "Dash de Ícaro",
+  "description": "Propulsión hacia adelante con llamas",
+  "cooldown": 2400,
+  "hud_render": {
+    "should_render": true,
+    "bar_index": 4
+  },
+  "sound": "minecraft:entity.ender_dragon.flap",
+  "speed": 3.0,
+  "key": {
+    "key": "key.origins.primary_active"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "origins:multiple",
+  "armor": {
+    "type": "origins:attribute",
+    "modifier": {
+      "name": "Armor Bonus",
+      "attribute": "minecraft:generic.armor",
+      "operation": "addition",
+      "value": 8
+    }
+  },
+  "toughness": {
+    "type": "origins:attribute",
+    "modifier": {
+      "name": "Armor Toughness",
+      "attribute": "minecraft:generic.armor_toughness",
+      "operation": "addition",
+      "value": 2
+    }
+  },
+  "knockback_resistance": {
+    "type": "origins:attribute",
+    "modifier": {
+      "name": "Knockback Resistance",
+      "attribute": "minecraft:generic.knockback_resistance",
+      "operation": "addition",
+      "value": 0.3
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "origins-factions:end_citizen/end_citizen_passive",
+    "origins-factions:end_citizen/end_citizen_active",
+    "origins:throw_ender_pearl",
+    "origins:damage_from_water",
+    "origins:prevent_elytra_flight",
+    "origins:ender_particles",
+    "origins:phasing"
+  ],
+  "icon":"minecraft:obsidian",
+  "impact": 3
+}

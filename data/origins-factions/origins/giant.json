@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "origins-factions:giant/big",
+    "origins-factions:giant/health",
+    "origins:slow_falling",
+    "origins:heavy"
+  ],
+  "icon":"minecraft:iron_block",
+  "impact": 3
+}

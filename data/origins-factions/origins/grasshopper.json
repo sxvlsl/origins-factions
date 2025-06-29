@@ -1,0 +1,12 @@
+{
+  "powers": [
+    "origins-factions:grasshopper/acrobat_jump",
+    "origins-factions:grasshopper/acrobat_super_jump",
+    "origins-factions:icarus/icarus_fall",
+    "origins:light_armor",
+    "origins:more_exhaustion",
+    "origins:vegetarian"
+  ],
+  "icon":"minecraft:lily_pad",
+  "impact": 3
+}

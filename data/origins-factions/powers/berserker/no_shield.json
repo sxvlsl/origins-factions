@@ -1,0 +1,12 @@
+{
+  "type": "origins:prevent_item_use",
+  "name": "Sin Escudo",
+  "description": "Los berserkers no usan defensas cobardes",
+  "item_condition": {
+    "type": "origins:ingredient",
+    "ingredient": {
+      "item": "minecraft:shield"
+    }
+  },
+  "message": "¡Los berserkers no usan escudos!"
+}

@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "origins-factions:ninja/speed",
+    "origins-factions:ninja/invisibility",
+    "origins:light_armor",
+    "origins:more_exhaustion"
+  ],
+  "icon":"minecraft:feather",
+  "impact": 3
+}

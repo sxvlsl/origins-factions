@@ -1,0 +1,6 @@
+{
+  "type": "origins:modify_falling",
+  "name": "Caída de Ícaro",
+  "description": "No recibes daño por caída.",
+  "take_fall_damage": false
+}

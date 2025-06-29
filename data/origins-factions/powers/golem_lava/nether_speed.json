@@ -1,0 +1,16 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "Nether Speed Boost",
+    "attribute": "minecraft:generic.movement_speed",
+    "value": 0.15,
+    "operation": "multiply_base"
+  },
+  "condition": {
+    "type": "origins:dimension",
+    "dimension": "minecraft:the_nether"
+  },
+  "update_health": false,
+  "name": "Velocidad Nether",
+  "description": "Te mueves 15% más rápido en el Nether"
+}

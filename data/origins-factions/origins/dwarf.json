@@ -1,0 +1,11 @@
+{
+  "powers": [
+    "origins-factions:dwarf/small",
+    "origins:fragile",
+    "origins:fast_breaking",
+    "origins:fall_immunity",
+    "origins:weak_arms"
+  ],
+  "icon":"minecraft:iron_block",
+  "impact": 3
+}

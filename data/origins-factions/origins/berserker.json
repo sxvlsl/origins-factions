@@ -1,0 +1,11 @@
+{
+  "powers": [
+    "origins-factions:berserker/strong",
+    "origins-factions:berserker/rage",
+    "origins-factions:berserker/no_shield",
+    "origins:more_exhaustion",
+    "origins:burning_wrath"
+  ],
+  "icon":"minecraft:netherite_axe",
+  "impact": 3
+}

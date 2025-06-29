@@ -1,0 +1,11 @@
+{
+  "powers": [
+    "origins-factions:golem_lava/big",
+    "origins:fire_immunity",
+    "origins-factions:golem_lava/nether_speed",
+    "origins:damage_from_water",
+    "origins:hotblooded"
+  ],
+  "icon":"minecraft:magma_block",
+  "impact": 3
+}

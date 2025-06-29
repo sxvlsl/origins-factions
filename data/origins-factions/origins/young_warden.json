@@ -1,0 +1,12 @@
+{
+  "powers": [
+    "origins-factions:young_warden/warden_vision",
+    "origins-factions:young_warden/spectral_touch",
+    "origins-factions:young_warden/armor_restrictions",
+    "origins:strong_arms",
+    "origins:more_armor",
+    "origins:sensitivity"
+  ],
+  "icon":"minecraft:sculk",
+  "impact": 3
+}

@@ -1,0 +1,55 @@
+{
+  "type": "origins:multiple",
+  "night_vision": {
+    "type": "origins:night_vision",
+    "strength": 0.7,
+    "condition": {
+      "type": "origins:brightness",
+      "comparison": "<",
+      "compare_to": 0.333
+    }
+  },
+  "darkness_effect": {
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 0,
+    "max_stacks": 1,
+    "duration_per_stack": 120,
+    "effect": {
+      "effect": "minecraft:darkness",
+      "amplifier": 0,
+      "is_ambient": true,
+      "show_particles": false,
+      "show_icon": false
+    },
+    "condition": {
+      "type": "origins:and",
+      "conditions": [
+        {
+          "type": "origins:brightness",
+          "comparison": ">=",
+          "compare_to": 0.333
+        },
+        {
+          "type": "origins:exposed_to_sun"
+        }
+      ]
+    }
+  },
+  "darkness_application": {
+    "type": "origins:action_over_time",
+    "interval": 20,
+    "condition": {
+      "type": "origins:brightness",
+      "comparison": ">=",
+      "compare_to": 0.333
+    },
+    "entity_action": {
+      "type": "origins:apply_effect",
+      "effect": {
+        "effect": "minecraft:darkness",
+        "duration": 100,
+        "amplifier": 0
+      }
+    }
+  }
+}

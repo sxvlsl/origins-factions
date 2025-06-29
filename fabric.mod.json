@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "origins-factions",
+	"version": "${version}",
+	"name": "Orígenes de Facciones",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/origins-factions/icon.png",
+	"environment": "*",
+	"mixins": [
+		"origins-factions.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"origins": "1.10.0",
+		"pehkui":"*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	},
+	"custom":{
+		"modmenu":{
+			"links":{
+				"modmenu.curseforge":"https://www.curseforge.com/minecraft/mc-mods/origins-plus-plus",
+				"modmenu.modrinth":"https://modrinth.com/mod/origins-plus-plus",
+				"modmenu.viewCredits":"https://gist.github.com/QuantumXenon/d7ec9ceee0f8897410cff5088307f028"
+			}
+		}
+	}
+}

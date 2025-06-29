@@ -1,0 +1,15 @@
+{
+  "type": "origins:action_when_hit",
+  "name": "Sonido de Teleport",
+  "description": "Hace sonido de teleportación cuando te golpean",
+  "bientity_action": {
+    "type": "origins:target_action",
+    "action": {
+      "type": "origins:play_sound",
+      "sound": "minecraft:entity.enderman.teleport",
+      "volume": 1.0,
+      "pitch": 1.0
+    }
+  },
+  "cooldown": 1
+}

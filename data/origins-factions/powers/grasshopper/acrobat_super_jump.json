@@ -1,0 +1,24 @@
+{
+  "type": "origins:active_self",
+  "name": "Lanzamiento de Acróbata",
+  "description": "Triplica tu salto durante 15 segundos. Se recarga cada 120 segundos.",
+  "cooldown": 2400,
+  "hud_render": {
+    "should_render": true,
+    "bar_index": 5
+  },
+  "entity_action": {
+    "type": "origins:apply_effect",
+    "effect": {
+      "effect": "minecraft:jump_boost",
+      "duration": 300,
+      "amplifier": 2,
+      "show_particles": true,
+      "show_icon": true
+    }
+  },
+  "key": {
+    "key": "key.origins.primary_active",
+    "continuous": false
+  }
+}

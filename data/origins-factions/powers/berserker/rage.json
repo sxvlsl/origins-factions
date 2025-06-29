@@ -1,0 +1,42 @@
+{
+  "type": "origins:active_self",
+  "name": "Furia Berserker",
+  "description": "Activa tu ira interior para obtener fuerza sobrehumana",
+  "cooldown": 300,
+  "hud_render": {
+    "should_render": true,
+    "sprite_location": "origins:textures/gui/community/huang/resource_bar_01.png",
+    "bar_index": 7
+  },
+  "key": {
+    "key": "key.origins.primary_active",
+    "continuous": false
+  },
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:apply_effect",
+        "effect": {
+          "effect": "minecraft:strength",
+          "duration": 200,
+          "amplifier": 2
+        }
+      },
+      {
+        "type": "origins:apply_effect",
+        "effect": {
+          "effect": "minecraft:resistance",
+          "duration": 200,
+          "amplifier": 0
+        }
+      },
+      {
+        "type": "origins:play_sound",
+        "sound": "minecraft:entity.ravager.roar",
+        "volume": 0.8,
+        "pitch": 1.0
+      }
+    ]
+  }
+}

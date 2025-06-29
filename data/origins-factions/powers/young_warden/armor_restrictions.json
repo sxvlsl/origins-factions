@@ -1,0 +1,22 @@
+{
+  "type": "origins:multiple",
+  "restriction": {
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "origins-plus-plus:netherite_armor"
+      }
+    },
+    "message": "No puedes usar armadura de netherita"
+  },
+  "armor_bonus": {
+    "type": "origins:attribute",
+    "modifier": {
+      "name": "Armor Bonus",
+      "attribute": "minecraft:generic.armor",
+      "operation": "addition",
+      "value": 6
+    }
+  }
+}

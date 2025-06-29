@@ -1,0 +1,15 @@
+{
+  "allow_random": true,
+  "origins": [
+    "origins-factions:giant",
+    "origins-factions:dwarf",
+    "origins-factions:ninja",
+    "origins-factions:hoplite",
+    "origins-factions:berserker",
+    "origins-factions:grasshopper",
+    "origins-factions:icarus",
+    "origins-factions:golem_lava",
+    "origins-factions:end_citizen",
+    "origins-factions:young_warden"
+  ]
+}

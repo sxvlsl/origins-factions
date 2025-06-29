@@ -1,0 +1,10 @@
+{
+    "type": "origins:modify_jump",
+    "name": "Salto de Acuático",
+    "description": "Puedes saltar más alto.",
+    "modifier": {
+      "operation": "addition",
+      "value": 0.4
+    }
+  }
+  

@@ -1,0 +1,9 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "name": "Ninja Speed",
+    "attribute": "minecraft:generic.movement_speed",
+    "operation": "multiply_base",
+    "value": 0.25
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "origins:active_self",
+  "cooldown": 2400,
+  "key": {
+    "key": "key.origins.primary_active",
+    "continuous": false
+  },
+  "hud_render": {
+    "should_render": true,
+    "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_01.png",
+    "bar_index": 7
+  },
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:apply_effect",
+        "effect": {
+          "effect": "minecraft:invisibility",
+          "duration": 400,
+          "amplifier": 0,
+          "show_particles": false,
+          "show_icon": false
+        }
+      },
+      {
+        "type": "origins:play_sound",
+        "sound": "minecraft:entity.ender_dragon.flap",
+        "volume": 0.6,
+        "pitch": 1.2
+      }
+    ]
+  },
+  "name": "Invisibilidad Ninja",
+  "description": "Te vuelves invisible con un sonido característico"
+}

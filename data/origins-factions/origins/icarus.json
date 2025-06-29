@@ -1,0 +1,11 @@
+{
+  "powers": [
+    "origins-factions:icarus/icarus_fall",
+    "origins-factions:icarus/icarus_dash",
+    "origins:water_vulnerability",
+    "origins:flammable",
+    "origins:air_from_potions"
+  ],
+  "icon":"minecraft:elytra",
+  "impact": 3
+}

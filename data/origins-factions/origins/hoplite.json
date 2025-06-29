@@ -1,0 +1,11 @@
+{
+  "powers": [
+    "origins-factions:hoplite/health",
+    "origins-factions:hoplite/resistance",
+    "origins-factions:hoplite/superresistance",
+    "origins:slow_swimming",
+    "origins:heavy"
+  ],
+  "icon":"minecraft:iron_sword",
+  "impact": 3
+}

@@ -1,0 +1,86 @@
+{
+  "origin.origins-factions.giant.name": "Giant",
+  "origin.origins-factions.giant.description": "You are 50% larger. +Health but slower movement",
+
+  "origin.origins-factions.dwarf.name": "Dwarf",
+  "origin.origins-factions.dwarf.description": "You are 30% smaller. Fast mining but less health",
+
+  "origin.origins-factions.ninja.name": "Samurai",
+  "origin.origins-factions.ninja.description": "Speed and tactical invisibility, but fragile",
+
+  "origin.origins-factions.hoplite.name": "Hoplite",
+  "origin.origins-factions.hoplite.description": "+10 hearts and temporary resistance, but slow movement",
+
+  "origin.origins-factions.berserker.name": "Berserker",
+  "origin.origins-factions.berserker.description": "+50% physical damage and temporary rage, but cannot use shields",
+
+  "origin.origins-factions.icarus.name": "Icarus",
+  "origin.origins-factions.icarus.description": "Immune to fall damage, but vulnerable to water and fire",
+
+  "origin.origins-factions.grasshopper.name": "Grasshopper",
+  "origin.origins-factions.grasshopper.description": "High jump and reduced fall damage, but accelerated hunger",
+
+  "origin.origins-factions.golem_lava.name": "Lava Golem",
+  "origin.origins-factions.golem_lava.description": "Fire resistant, faster in the Nether, but damaged by water",
+
+  "origin.origins-factions.end_citizen.name": "End Citizen",
+  "origin.origins-factions.end_citizen.description": "Enderman height, teleportation, enderman immunity, but water damage",
+
+  "origin.origins-factions.young_warden.name": "Young Warden",
+  "origin.origins-factions.young_warden.description": "Night vision in darkness, spectral attack, but blind in light",
+
+  "power.origins-factions.giant/size.name": "Giant Size",
+  "power.origins-factions.giant/size.description": "Your body is 1.5 times larger than normal",
+
+  "power.origins-factions.dwarf/size.name": "Dwarf Size",
+  "power.origins-factions.dwarf/size.description": "Your body is 30% smaller than normal",
+
+  "power.origins-factions.golem_lava/size.name": "Lava Golem Size",
+  "power.origins-factions.golem_lava/size.description": "Slightly larger than normal",
+
+  "power.origins-factions.end_citizen/end_citizen.name": "End Citizen Size",
+  "power.origins-factions.end_citizen/end_citizen.description": "Height equivalent to an Enderman",
+
+  "power.origins-factions.end_citizen/teleport.name": "End Teleport",
+  "power.origins-factions.end_citizen/teleport.description": "Teleport forward (Press Primary Key)",
+
+  "power.origins-factions.young_warden/warden_vision.name": "Warden Vision",
+  "power.origins-factions.young_warden/warden_vision.description": "Blind in light, night vision in darkness",
+
+  "power.origins-factions.young_warden/spectral_touch.name": "Spectral Touch",
+  "power.origins-factions.young_warden/spectral_touch.description": "Attacks apply glowing effect to enemies",
+
+  "power.origins-factions.golem_lava/nether_speed.name": "Nether Speed",
+  "power.origins-factions.golem_lava/nether_speed.description": "Increased movement speed in the Nether",
+
+  "power.origins-factions.young_warden/armor_restrictions.name": "Netherite Armor Restriction",
+  "power.origins-factions.young_warden/armor_restrictions.description": "Cannot wear netherite armor but gain extra protection",
+
+  "power.origins-factions.ninja/invisibility.name": "Tactical Invisibility",
+  "power.origins-factions.ninja/invisibility.description": "Become invisible while sneaking",
+
+  "power.origins-factions.hoplite/resistance.name": "Hoplite Resistance",
+  "power.origins-factions.hoplite/resistance.description": "Temporary damage resistance (Press Active Key)",
+
+  "power.origins-factions.berserker/rage.name": "Berserker Rage",
+  "power.origins-factions.berserker/rage.description": "Temporary strength boost (Press Active Key)",
+
+  "power.origins-factions.grasshopper/acrobat_jump.name": "Jump",
+  "power.origins-factions.grasshopper/acrobat_jump.description": "Increased jump",
+
+  "power.origins-factions.grasshopper/acrobat_super_jump.name": "Superjump",
+  "power.origins-factions.grasshopper/acrobat_super_jump.description": "Super-increased jump (Press Active Key)",
+
+  "power.origins-factions.icarus/icarus_dash.name": "Icarus Dash",
+  "power.origins-factions.icarus/icarus_dash.description": "You dash through the air (Press Active Key)",
+
+  "power.origins-factions.icarus/icarus_fall.name": "No-fall damage",
+  "power.origins-factions.icarus/icarus_fall.description": "You don't receive damage when falling",
+
+  "item.origins-factions.no_netherite_armor": "You cannot wear netherite armor!",
+  "origins.key.primary": "Primary Power",
+  "origins.key.secondary": "Secondary Power",
+  "origins.key.swap": "Swap Power",
+
+  "subtitles.origins-factions.swoosh": "Wind Whistle"
+}
